@@ -19,7 +19,7 @@ kernelspec:
 | 🟢 | 🟡 |
 
 # Summary
-The name of kit and 2-3 sentence summary
+I purchased this radio after the Standard Horizon radio I
 
 # Buyer
 Who's it for?
