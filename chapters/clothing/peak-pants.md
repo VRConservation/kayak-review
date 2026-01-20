@@ -1,5 +1,5 @@
 ---
-title: Peak trousers
+title: Peak PS Semi Pants Evo trousers
 subject: Clothing
 subtitle: A dubious start to 2-ply trousers
 short_title:  Peak UK Trousers
