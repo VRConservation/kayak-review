@@ -1,7 +1,7 @@
 ---
-title: Whetman Sea Contact Tow MK11
+title: Peak trousers
 subject: Clothing
-subtitle: A nicely engineered contact tow
+subtitle: A dubious start to 2-ply trousers
 short_title:  Peak UK Trousers
 authors:
   - name: Vance Russell
