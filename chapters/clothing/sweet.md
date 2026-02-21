@@ -19,7 +19,7 @@ kernelspec:
 | 🟢 Dries quickly | 🟡 Headband adjustment is fiddly |
 
 # Summary
-This helmet just looks cool, plus you get a visor to keep the sun out. I'm not sure whether to start singing Kiss's Strutter or Sweet's Ballroom Blitz when I put this helmet on but it does make you want to go out and surf some waves, run a tiderace, or negotiate splosh. Altho, generally pricey can often get them on sale. At the time of publishing Escape Watersports had a neon green Strutter for sale at £49.99. As mentioned, in the cons, I found the headband to be uncomfortable at first after about 1 hr of paddling. This has gradually subsided and I'm not sure whether I broke in the helmet or it broke me.
+This helmet just looks cool, plus you get a visor to keep the sun out. I'm not sure whether to start singing Kiss's Strutter or Sweet's Ballroom Blitz when I put this helmet on but it does make you want to go out and surf some waves, run a tiderace, or negotiate splosh. Altho, generally pricey, you can often get them on sale. Not too long ago, Escape Watersports had a neon green Strutter for sale at £49.99. As mentioned, in the cons, I found the headband to be uncomfortable at first after about 1 hr of paddling. This has gradually subsided and I'm not sure whether I broke in the helmet or it broke me in.
 
 # Buyer
 Anyone going rockhopping, into waves or more advanced conditionsl

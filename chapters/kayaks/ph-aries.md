@@ -1,7 +1,7 @@
 ---
-title: Whetman Sea Contact Tow MK11
+title: P&H Aries 155
 subject: Kayaks
-subtitle: A nicely engineered contact tow
+subtitle: Wants to surf every single wave all the time
 short_title:  P&H Aries 155
 authors:
   - name: Vance Russell
