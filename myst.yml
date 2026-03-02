@@ -2,8 +2,8 @@
 version: 1
 project:
   id: 9f909172-1170-4ef0-910f-2e9a556fef16
-  # title:
-  # description:
+  title: Kayak Gear Reviews
+  description: Short reviews of kayak gear, including clothing, kayaks, paddles, and safety equipment.
   # keywords: []
   # authors: []
   github: http://3point.xyz/kayak-review/

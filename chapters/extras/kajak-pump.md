@@ -1,5 +1,5 @@
 ---
-title: Jajak Sport Pump
+title: Kajak Sport Pump
 subject: Extras
 subtitle: Streamlined pump that makes quick work of flooded cockpits
 short_title:  Kajak Sport Pump
