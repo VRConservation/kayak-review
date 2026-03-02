@@ -21,10 +21,10 @@ kernelspec:
 # Summary
 
 
-A downside of these trousers can be breathability
+A downside of these trousers can be breathability and sometimes reminds me of the [Schweddy Balls](https://www.youtube.com/watch?v=bPpcfH_HHH8) skit on Saturday Night Live (skip to '4:43)
 
 # Buyer
-Who's it for?
+Anyone with a semi-dry cag that wants to add a litte more protection for legs on windy, cold, and wet days. This doesn't replace a drysuit, but adds an extra option for when drysuits are too much, or you just want to make your drysuit last a little longer.
 
 # Specs
 Cost: 
