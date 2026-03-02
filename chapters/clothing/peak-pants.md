@@ -14,12 +14,14 @@ kernelspec:
 
 | **PROS**    | **CONS**  |
 |-------------------|-----------|
-| 🟢 Pro 1 | 🟡 Con 1 |
+| 🟢 Great, lightweight setup for a 2-piece | 🟡 Can be schwetty inside |
 | 🟢  | 🟡 |
 | 🟢 | 🟡 |
 
 # Summary
-The name of kit and 2-3 sentence summary
+
+
+A downside of these trousers can be breathability
 
 # Buyer
 Who's it for?

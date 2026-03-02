@@ -1,7 +1,7 @@
 ---
 title: Palm Atom Drysuit
 subject: Clothing
-subtitle: Very comfortable, easy to don
+subtitle: Very comfortable, easy to don drysuit
 short_title:  Palm Atom Drysuit
 authors:
   - name: Vance Russell
@@ -14,12 +14,12 @@ kernelspec:
 
 | **PROS**    | **CONS**  |
 |-------------------|-----------|
-| 🟢 Comfortable | 🟡 Socks are large |
+| 🟢 Comfortable | 🟡 Socks are very large |
 | 🟢 Easy to put on | 🟡 Pee zipper narrow |
 | 🟢 Doesn't leak (not yet anyway!) | 🟡 Fits a little large |
 
 # Summary
-This is more of a first impressions review since I've only worn the drysuit on the water once at the time of initial review. 
+This is more of a first impressions review since I've only worn the drysuit on the water a couple of dozen times since purchasing it. 
 
 Putting on/taking off. Zipper a bit fiddly doig it solo as the shoulders are large for me 
 While paddling. Very comfy, almost didn't notice it at all.
@@ -31,10 +31,6 @@ Downsides of big fit, large socks
 
 
 # Specs
+Price: ~£600
 
-
-Weight: 
-
-URL: 
-
-Review date: 29 December 2025
+Review date: 2 March 2026
