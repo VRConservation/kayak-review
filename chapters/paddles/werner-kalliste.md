@@ -1,7 +1,7 @@
 ---
 title: Werner Kalliste Paddle
 subject: Paddles
-subtitle: A nicely engineered contact tow
+subtitle: A lightweight, superbly crafted paddle
 short_title:  Werner Kalliste
 authors:
   - name: Vance Russell
@@ -14,21 +14,17 @@ kernelspec:
 
 | **PROS**    | **CONS**  |
 |-------------------|-----------|
-| 🟢 Pro 1 | 🟡 Con 1 |
-| 🟢  | 🟡 |
-| 🟢 | 🟡 |
+| 🟢 Incredibly light | 🟡 Can wobble w/o proper technique |
+| 🟢 Exceptional link design | 🟡 Long |
+| 🟢 Narrow profile great on windy days | 🟡 Expensive |
 
 # Summary
-The name of kit and 2-3 sentence summary
+Wobble
 
 # Buyer
-Who's it for?
+Expeditioner
 
 # Specs
-Cost: 
 
-Weight: 
-
-URL: 
 
 Review date: DD Month Year

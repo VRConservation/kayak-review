@@ -1,8 +1,8 @@
 ---
-title: Celtic Nylon
+title: Celtic 650 Nylon
 subject: Paddles
 subtitle: A nicely engineered contact tow
-short_title:  Celtic Nylon
+short_title:  Celtic 650 Nylon
 authors:
   - name: Vance Russell
     email: connor3089ut@gmail.com
@@ -14,15 +14,15 @@ kernelspec:
 
 | **PROS**    | **CONS**  |
 |-------------------|-----------|
-| 🟢 Pro 1 | 🟡 Con 1 |
-| 🟢  | 🟡 |
+| 🟢 Great in rocks or high impact zones | 🟡 Heavy |
+| 🟢 Lever lock is bombproof | 🟡 |
 | 🟢 | 🟡 |
 
 # Summary
-The name of kit and 2-3 sentence summary
+
 
 # Buyer
-Who's it for?
+A rock gardener.
 
 # Specs
 Cost: 
@@ -31,4 +31,4 @@ Weight:
 
 URL: 
 
-Review date: DD Month Year
+Review date: 03 March 2026

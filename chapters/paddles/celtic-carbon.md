@@ -14,21 +14,16 @@ kernelspec:
 
 | **PROS**    | **CONS**  |
 |-------------------|-----------|
-| 🟢 Pro 1 | 🟡 Con 1 |
-| 🟢  | 🟡 |
+| 🟢 Solid, strong, paddle | 🟡 (minor) Stickers come off |
+| 🟢 Bombproof leverlock | 🟡 |
 | 🟢 | 🟡 |
 
 # Summary
-The name of kit and 2-3 sentence summary
+
 
 # Buyer
-Who's it for?
+
 
 # Specs
-Cost: 
-
-Weight: 
-
-URL: 
 
 Review date: DD Month Year
