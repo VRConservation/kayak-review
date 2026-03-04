@@ -19,10 +19,11 @@ kernelspec:
 | 🟢 Well engineered | 🟡 Carabiner moves from attachment|
 
 # Summary
-Whetman Sea Bean
-Pricey, but what cost safety?
+> 'I hate 'em.' Stuart Leslie on long tows
 
-Site does say to cut the tail, however
+Ok, well Stu doesn't like any long tows, any you can see his point, they're messy, the lines get in the way, they're hard to stow, and they're not necessary for most rescues if you're fast, efficient, and know how to use a contact tow, well.
+
+However, 
 
 # Buyer
 Who's it for?
