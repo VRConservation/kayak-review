@@ -29,7 +29,7 @@ Peak UK Ocean Wrap
 ```
 
 # Buyer
-Who's it for?
+Anyone that wants a easy to put on buoyancy aid with plenty of pockets for ouch pouch first aid, radio, phone, snacks, compass, and other essentials you need close to your person.
 
 # Specs
 Cost: £139

@@ -17,7 +17,7 @@ kernelspec:
 | 🟢 Fits right | 🟡 Bladder pocket doesn't work |
 | 🟢 Pockets easy to access | 🟡 Pockets are small and waist zippers inaccessible |
 | 🟢 Nice look/colors | 🟡 Pricey |
-|  | 🟡 Neoprene hand warmer takes a long time to dry |
+| 🟢 | 🟡 Neoprene hand warmer takes a long time to dry |
 
 
 # Summary
@@ -39,13 +39,8 @@ PAstral Blue BA
 ```
 
 # Buyer
-Ultralight, expeditioner that wants a comfortable BA for long days in the boat.
+Ultralight, expeditioner that wants a comfortable BA for long days in the boat and doesn't mind not having a drink bladder on their BA.
 
 # Specs
-Cost: 
-
-Weight: 
-
-URL: 
 
 Review date: 16 October 2025

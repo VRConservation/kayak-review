@@ -1,7 +1,7 @@
 ---
 title: Palm Quick Tow
 subject: Safety
-subtitle: A nicely engineered contact tow
+subtitle: An inexpensive tow line
 short_title:  Palm towline
 authors:
   - name: Vance Russell
@@ -14,15 +14,15 @@ kernelspec:
 
 | **PROS**    | **CONS**  |
 |-------------------|-----------|
-| 🟢 Pro 1 | 🟡 Con 1 |
-| 🟢  | 🟡 |
-| 🟢 | 🟡 |
+| 🟢 Price | 🟡 Plastic carbiner seems flimsy |
+| 🟢 Easily deployed | 🟡 Not long enough (10m) |
+| 🟢 High-vis line | 🟡 Large when stowed |
 
 # Summary
 The name of kit and 2-3 sentence summary
 
 # Buyer
-Who's it for?
+Great for a first towline purchase as it's not pricey and it works for basic towing.
 
 # Specs
 Cost: 

@@ -2,7 +2,7 @@
 title: Whetman Sea Bean
 subject: Safety
 subtitle: Cornish pasty sized towline is easy to use and repack
-short_title:  Sea Bean towline
+short_title:  Sea Bean Towline
 authors:
   - name: Vance Russell
     email: connor3089ut@gmail.com
@@ -34,4 +34,4 @@ Weight:
 
 URL: https://www.whetmanequipment.com/sea-bean-towline.html#/
 
-Review date: DD Month Year
+Review date: 4 March 2026
