@@ -21,7 +21,7 @@ kernelspec:
 Different colors, deck out your boat with rad colored hatches.
 
 # Buyer
-Anyone that wants to or needs to replace the hatches that came with their boat. These are a much improved version, for instance of the NDK hatch covers. I have three that I've fitted on NDK and P&H boats. Steve Whetman first mentioned they're designed for fiberglass boats, but I've found they work on plastic boats as well. They work! What more can you say. 
+Anyone who wants to or needs to replace the hatches that came with their boat. These are a much-improved version of the NDK hatch covers, for instance. I have three that I've fitted on NDK and P&H boats. Steve Whetman first mentioned they're designed for fiberglass boats, but I've found they work on plastic boats as well. They work! What more can you say? 
 
 # Specs
 Cost: variable by size.

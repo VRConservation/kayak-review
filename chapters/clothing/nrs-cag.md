@@ -19,12 +19,12 @@ kernelspec:
 | 🟢 Keeps water out | 🟡 Can feel 'colder' than other jackets or drysuits |
 
 # Summary
-Comfortable and water tight cag that breathes well and moves with you while paddling. The neck and wrist seals are comfortable and keep water out even during capsizes and rolling. It has some nice touches like a chammy patch when you close the hood and ample pockets. The lower pockets have a hand warmer but aren't accessible when wearing a buoyancy aid. The upper pockets are great but don't open easily on the water. None of the pockets keep water out. 
+Comfortable and water-tight cag that breathes well and moves with you while paddling. The neck and wrist seals are comfortable and keep water out even during capsizes and rolling. It has some nice touches like a chammy patch when you close the hood and ample pockets. The lower pockets have a hand warmer, but aren't accessible when wearing a buoyancy aid. The upper pockets are great, but don't open easily on the water. None of the pockets keeps water out. 
 
-Although the jacket breathes well, I find that sometimes it feels a bit cold. This isn't clamminess from sweat building inside nor does the jacket have insulation. Perhaps it's more breathable fabric and wind compared to other jackets I have that 
+Although the jacket breathes well, I sometimes find it a bit cold. This isn't clamminess from sweat building inside, nor does the jacket have insulation. Perhaps it's a more breathable fabric and wind compared to other jackets I have that 
 
 # Buyer
-Any paddler that needs a water
+Any paddler who needs a water-resistant cag for those shoulder season paddles where a drysuit is too hot and a short-sleeve cag is too cold (or rougher, warmer conditions).
 
 # Specs
 Cost: £210

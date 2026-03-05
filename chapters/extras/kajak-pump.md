@@ -19,12 +19,12 @@ kernelspec:
 | 🟢 Has a leash| 🟡 |
 
 # Summary
-The Sport Pump is well thought out and designed for long-term use. It easily and quickly pumps out a flooded cockpit with low resistance due to its metal 'piston rod' that hold the piston and handle. The cap that seals this section is removalbe to make servicing and cleaning easier. There is also a leash reducing the yard sale aspect (all your kit floating in the water after getting smashed by a wave) of swims. I had to get this pump after the NRS pump I've used for the past few years became tiresome to pump out a cockpit after a few minutes due to massive friction while pulling the piston out and pushing it in. The handle on the NRS also broke during a rescue training exercise.
+The Sport Pump is well thought out and designed for long-term use. It easily and quickly pumps out a flooded cockpit with low resistance due to its metal 'piston rod' that holds the piston and handle. The cap that seals this section is removable to make servicing and cleaning easier. There is also a leash that reduces the yard-sale aspect (all your kit floating in the water after getting smashed by a wave) of swims. I had to get this pump after the NRS pump I've used for the past few years became tiresome to pump out a cockpit after a few minutes due to massive friction while pulling the piston out and pushing it in. The handle on the NRS also broke during a rescue training exercise.
 
-More expensive than most pums, the Sport Pump, does have features that seem worth it and helps the pump do what it needs to do. I've found the removable piston cap to sometimes be disconcerting as it will suddenly come loose while pumping following a rescue. The pump still works and the cap goes back if you push it in, but it seems like the resistance to remove it needs to be set a little higher.
+More expensive than most pumps, the Sport Pump has features that seem worth it and help it do what it needs to do. I've found the removable piston cap to be disconcerting, as it can suddenly come loose while pumping after a rescue. The pump still works, and the cap goes back if you push it in, but it seems like the resistance to remove it needs to be set a little higher.
 
 # Buyer
-Everyone needs a pump, no one wants to have one that doesn't work when it's needed. This pump seems to fit that bill. We'll see how it works out over the long-term. At the time of writing, I've only had it one month.
+Everyone needs a pump; no one wants to have one that doesn't work when it's needed. This pump seems to fit that bill. We'll see how it works out over the long-term. At the time of writing, I've only had it for one month.
 
 # Specs
 Cost: ~£30

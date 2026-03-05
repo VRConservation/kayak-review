@@ -19,7 +19,7 @@ kernelspec:
 | 🟢 Easy on and off |  |
 
 # Summary
-Front entry system with zip makes this buoyancy aid easy to don and doff ({numref}`peak`). My only minor complaints are the jacket are the many straps to fit to your body can be fiddly and they loosen. The jacket also is not as comfortable, say, as the Astral, especially on longer journeys. However, it's £100 less and made of eco-friendly recycled materials (and made in the UK--I think--rather than the US).
+Front-entry system with a zip makes this buoyancy aid easy to don and doff ({numref}`peak`). My only minor complaint is that the jacket has many straps to fit your body, which can be fiddly and tend to loosen. The jacket also is not as comfortable, say, as the Astral, especially on longer journeys. However, it's £100 less and made of eco-friendly, recycled materials (and made in the UK).
 
 ```{figure} ../../images/peak-ba.jpg
 :name: peak
@@ -29,7 +29,7 @@ Peak UK Ocean Wrap
 ```
 
 # Buyer
-Anyone that wants a easy to put on buoyancy aid with plenty of pockets for ouch pouch first aid, radio, phone, snacks, compass, and other essentials you need close to your person.
+Anyone who wants an easy-to-put-on buoyancy aid with plenty of pockets for a pouch first aid, radio, phone, snacks, compass, and other essentials you need close to your person.
 
 # Specs
 Cost: £139
