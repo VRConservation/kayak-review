@@ -14,12 +14,12 @@ kernelspec:
 
 | **PROS**    | **CONS**  |
 |-------------------|-----------|
-| 🟢 Great in rocks or high impact zones | 🟡 Heavy |
-| 🟢 Lever lock is bombproof | 🟡 |
-| 🟢 Excellent price | 🟡 |
+| 🟢 Great in rocks or high impact zones | 🟡 Somewhat heavy, but hey |
+| 🟢 Lever lock is bombproof | 🟡 No other |
+| 🟢 Excellent price | 🟡 Negatives |
 
 # Summary
-This paddles is a facsimile of the Celtic Omega but with nylon blades that you can bash along rocks, shorelines, or beach landings without a care in the world. The carbon shaft has the same stiffness. You do notice a little bit of weight penalty
+This paddle is a facsimile of the Celtic Omega but with nylon blades that you can bash along rocks, shorelines, or beach landings without a care in the world. The carbon shaft has the same stiffness. You do notice a little bit of weight penalty, but the ease of mind when taking into rocks or where hard stuff might not work very well with carbon paddles. I have nothing but praise for this paddle, it's great for any beginner to advanced paddle, feels good in hand and strokes confidently in the water. Make sure to choose your size correctly, 650 works well for most but you might find 600 is better. I've started to feel like the 208 minimum on this blade is a bit long, however, the NDK factory is able to shorten paddles to the length you want.
 
 # Buyer
 A rock gardener.
