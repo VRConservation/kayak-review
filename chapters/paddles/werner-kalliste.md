@@ -19,6 +19,8 @@ kernelspec:
 | 🟢 Narrow profile great on windy days | 🟡 Expensive |
 
 # Summary
+I purchased this paddle in the US since it was about £100 and for some reason I had to have it. I then nervously carried it on flights, like a musician with their priceless Stradivarius, hoping that the attendants wouldn't see it or care that my carry on was too long. Finally returning to the UK, I went out for a paddle and was amazed with how light it was in hand and it narrow profile allowed paddling into the wind.
+
 Wobble
 
 # Buyer
@@ -26,5 +28,4 @@ Expeditioner
 
 # Specs
 
-
-Review date: DD Month Year
+Review date: 5 March 2026

@@ -16,10 +16,10 @@ kernelspec:
 |-------------------|-----------|
 | 🟢 Great in rocks or high impact zones | 🟡 Heavy |
 | 🟢 Lever lock is bombproof | 🟡 |
-| 🟢 | 🟡 |
+| 🟢 Excellent price | 🟡 |
 
 # Summary
-
+This paddles is a facsimile of the Celtic Omega but with nylon blades that you can bash along rocks, shorelines, or beach landings without a care in the world. The carbon shaft has the same stiffness. You do notice a little bit of weight penalty
 
 # Buyer
 A rock gardener.
