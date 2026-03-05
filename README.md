@@ -1,10 +1,8 @@
 # Kayak Gear Reviews
-Welcome to the Kayk Gear Reviews [Book](3point.xyz/kayak-review).
+Welcome to the Kayak Gear Reviews [Book](3point.xyz/kayak-review)!
 
 # Kit challenges
-> 'All kayak gear is shit!' Ian Lambert
-
-Well maybe not any more, Ian (RIP). However, sorting through what works and does not with kayak gear can be a confusing, costly, and monumental task. There are many opinions, often based on personal taste and paddling style. The web has reviews, but many can be outdated and often seem to be from 10+ years ago. With more recent reviews, the focus is often on first impressions and don't include use over longer periods of time. So, beginners and more experienced paddlers alike are often subject to trial and error or word of mouth.
+Sorting through what works and does not with kayak gear can be a confusing, costly, and monumental task. There are many opinions, often based on personal taste and paddling style. The web has reviews, but many can be outdated and often seem to be from 10+ years ago. With more recent reviews, the focus is often on first impressions and don't include use over longer periods of time. So, beginners and more experienced paddlers alike are often subject to trial and error or word of mouth.
 
 # Guide
 We've started this guide to address this challenge and as a way to catalog and briefly review what active paddlers are using, like (or don't like) and a few details on the why that's the case. We also hope it provides honest, non-sponsored, complementary reviews from fellow paddlers and what's available online.
