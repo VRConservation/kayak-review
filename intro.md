@@ -37,4 +37,4 @@ The book is organized into broad, categorical chapters, each featuring equipment
 5. **Safety gear**. Essential safety gear and reviews of gear that worked, but not as well as the current kit.
 
 # Contribution
-Review contributions are welcome! Please feel free to reach out and offer kit reviews. The easiest way to do this is to visit the GitHub [repo](https://github.com/VRConservation/kayak_rvw), download one of the chapter markdown files, write the review, then make a pull request. 
+Review contributions are welcome! Please feel free to reach out and offer kit reviews. The easiest way to do this is to visit the GitHub [repo](https://github.com/VRConservation/kayak_rvw), clone the repository, add a review using the same markdown template as the other chapters, and then make a pull request. 

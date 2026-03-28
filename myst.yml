@@ -35,6 +35,7 @@ project:
             - file: chapters/kayaks/ndk-suf.md
             - file: chapters/kayaks/ph-aries.md
             - file: chapters/kayaks/ph-valkyrie.md
+            - file: chapters/kayaks/surfskis.md
         - title: Paddles
           children:
             - file: chapters/paddles/1. paddles.md
