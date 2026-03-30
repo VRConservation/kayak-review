@@ -20,9 +20,9 @@ kernelspec:
 
 
 # Summary
-Full disclosure: I don't own this boat, but I have paddled one on various occasions, including two times in Anglesey in advanced conditions. During the latest week, in an advanced leadership course, the boat confidently handled tideraces, surf, and rock hopping, tracked straight over longer distances, and went where I wanted it to. 
+Full disclosure: I don't own this boat, but I have paddled one on various occasions, including twice in Anglesey in adverse conditions. During the latest week, in an advanced leadership course, the boat confidently handled tideraces, surf, and rock hopping, tracked straight over longer distances, and went where I wanted it to. 
 
-One minor niggle is the Spartan cockpit outfitting. The seat is fiberglass and can warrant a break when paddling longer distances. I've had to add a closed-cell foam pad to the NDK Sport's seat to make it more comfortable. Although there are thigh braces of sorts and room to add hip padding, the ability to more easily outfit the cockpit for a tighter fit, e.g., add similar thigh braces to a P&H Ariès or add thigh braces without having to glue or strap them in, would be really great.
+One minor niggle is the Spartan cockpit outfitting. The seat is fiberglass and can crack when paddling long distances. I've had to add a closed-cell foam pad to the NDK Sport's seat to make it more comfortable. Although there are thigh braces of sorts and room to add hip padding, the ability to more easily outfit the cockpit for a tighter fit, e.g., add similar thigh braces to a P&H Ariès or add thigh braces without having to glue or strap them in, would be really great.
 
 # Buyer
 An intermediate to advanced paddler who wants a Swiss Army boat that works well in all conditions.

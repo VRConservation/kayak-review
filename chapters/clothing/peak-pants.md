@@ -19,7 +19,7 @@ kernelspec:
 | 🟢 Black is the new black | 🟡 You want to go back to the 80s and paddle in dayglo colors |
 
 # Summary
-Overall, a great piece of kit to add to your clothing for all conditions collection. Having a 2-piece setup is great for days you don't want to bother with a drysuit, or you want to reduce the wear and tear on your drysuit, especially the socks. It's a cheaper way to enter paddling without having to purchase a drysuit. These trousers don't have socks, so you'll need to get some waterproof socks or paddle without them when it's warmer.
+Overall, a great piece of kit to add to your clothing-for-all-conditions collection. Having a 2-piece setup is great for days when you don't want to bother with a drysuit, or when you want to reduce wear and tear on your drysuit, especially the socks. It's a cheaper way to enter paddling without having to purchase a drysuit. These trousers don't have socks, so you'll need to get some waterproof socks or paddle without them when it's warmer.
 
 A downside of these trousers can be breathability, and they can remind me of the [Schweddy Balls](https://www.youtube.com/watch?v=bPpcfH_HHH8) skit on Saturday Night Live (skip to '4:43) where it can get kind of schweddy down there. This is relieved by wearing an underlayer, e.g., fleece, neoprene, or merino, to help manage the sweat. My only other downside is the drying time. The main part of the trousers dries quickly, but the socks and waist fittings take a little longer to dry.
 

@@ -19,7 +19,7 @@ kernelspec:
 | 🟢 Reasonable price | 🟡 No leash|
 
 # Summary
-I really liked this pump until I was pumping out my cockpit following an exercise rescue in F5 winds and 2m swell when the handle broke. It still pumped, and I've since taped it up, but it makes me wonder what else might break when I really need it. Aside from questionable durability, this pump works ok, delivering high-volume water compared to smaller bilge pumps. The floaty foam circle on it is deteriorating, but saltwater and sun exposure tend to degrade materials like this over time. None of the metal has rusted, a big plus, and something on other 'seaworthy' gear that you would think would be required. I did notice, during the last intensive use, that the piston resistance was high, making it tiring to pump out a full cockpit.
+I really liked this pump until I was pumping out my cockpit after an exercise rescue in F5 winds and a 2m swell, when the handle broke. It still pumped, and I've since taped it up, but it makes me wonder what else might break when I really need it. Aside from questionable durability, this pump works ok, delivering high-volume water compared to smaller bilge pumps. The floaty foam circle on it is deteriorating, but saltwater and sun exposure tend to degrade materials like this over time. None of the metal has rusted, a big plus, and something on other 'seaworthy' gear that you would think would be required. I did notice, during the last intensive use, that the piston resistance was high, making it tiring to pump out a full cockpit.
 
 
 # Buyer

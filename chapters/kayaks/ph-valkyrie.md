@@ -21,7 +21,7 @@ kernelspec:
 # Summary
 The P&H Valkyrie is an exceptionally speedy plastic boat that mimics a surfski hull design. The boat also surfs downwind very well, though coordinating rudder, paddle, and edging takes some getting used to at first. If you use the boat in surf or downwind conditions a lot, it helps to reverse the rudder so that pushing on the left turns right. That way, when you're carving to the left, you also rudder left. However, I've found it's easier to carve and rudder with a paddle rather than use the rudder, which tends to overturn. It's also worth adding some bungees in the ruddering mechanism in the rear to make the rudder return to straight and track straight w/o touching the pedal controls.
 
-For how narrow and long this boat is (~5.4 m) it handles exceptionally well in rough conditions, although because it's long it can windcock a lot or is difficult to turn in windy conditions. Despite the high front deck height, the boat is exceptionally easy to roll.
+For how narrow and long this boat is (~5.4 m), it handles exceptionally well in rough conditions, though its length can make it windcock easily or difficult to turn in windy conditions. Despite the high front deck height, the boat is exceptionally easy to roll.
 
 # Buyer
 Speedy expeditioner or circumnavigator who doesn't want to faff with carbon or glass boats.
