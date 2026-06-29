@@ -23,6 +23,7 @@ project:
             - file: chapters/clothing/peak-pants.md
             - file: chapters/clothing/sweet.md
             - file: chapters/clothing/yak-dry.md
+            - file: chapters/clothing/pukclar.md
         - title: Extras
           children:
             - file: chapters/extras/hatches.md

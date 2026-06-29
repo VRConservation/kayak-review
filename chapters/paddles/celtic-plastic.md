@@ -1,7 +1,7 @@
 ---
 title: Celtic 650 Nylon
 subject: Paddles
-subtitle: A nicely engineered contact tow
+subtitle: A stiff nylon paddle for rockhopping
 short_title:  Celtic 650 Nylon
 authors:
   - name: Vance Russell
