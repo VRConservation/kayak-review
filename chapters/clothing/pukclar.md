@@ -21,7 +21,7 @@ kernelspec:
 # Summary
 I purchased these sunnies after sitting on an expensive pair at the Northumberland campsite. Tired of losing or breaking expensive sunglasses, I purchased these thinking they wouldn't be great due to the low price. So far they're awesome, rivaling much more expensive glasses and with no worries about losing or breaking them. Plus they come in different colors and are polarised. What more could you ask for. Highly recommended!
 
-The glasses are immediately comfortable when you put them on. While paddling or riding a bike, you notice that they cover your face/eyes well with no giant gaps due to the frame shape. Despite this coverage, they seem to ventilate well, or just as well as glasses that are expensive and advertise sweat venting.
+The glasses are immediately comfortable when you put them on. While paddling or riding a bike, you notice that they cover your face/eyes well with no giant gaps due to the frame shape. Despite this coverage, they seem to ventilate well, or just as well as glasses that are expensive and advertise sweat venting. The temples are quite large, so they can get in the way of your hat band or helmet. Folks with larger heads, may not have this issue, however.
 
 # Buyer
 Anyone kayaking needs sunnies to protect your eyes.
