@@ -35,6 +35,7 @@ project:
             - file: chapters/kayaks/ndk-sport.md
             - file: chapters/kayaks/ndk-suf.md
             - file: chapters/kayaks/ph-aries.md
+            - file: chapters/kayaks/ph-delphin.md
             - file: chapters/kayaks/ph-valkyrie.md
             - file: chapters/kayaks/surfskis.md
         - title: Paddles
