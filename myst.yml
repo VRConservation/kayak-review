@@ -29,6 +29,8 @@ project:
             - file: chapters/extras/hatches.md
             - file: chapters/extras/kajak-pump.md
             - file: chapters/extras/nrs-pump.md
+            - file: chapters/extras/bottles.md
+
         - title: Kayaks
           children:
             - file: chapters/kayaks/1. kayaks.md
