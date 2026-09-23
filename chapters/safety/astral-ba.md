@@ -21,9 +21,9 @@ kernelspec:
 
 
 # Summary
-The Astral Blue is a great fitting buoyancy aid for long and short distance paddles ({numref}`astral`). It has easy-to-access pockets with a clamshell design that allows for a tray-like platform when fully open. On the flip side, this BA is expensive and I'm not really sure you get value for money compared to less pricey versions from other providers. Two other major downsides are the bladder pocket, which isn't really a pocket and doesn't seem to accept any kind of bladder and the hand warmer pocket material and the waist of the BA takes forever to dry.
+The Astral Blue is a great-fitting buoyancy aid for long- and short-distance paddles ({numref}`astral`). It has easy-access pockets and a clamshell design that creates a tray-like platform when fully open. On the flip side, this BA is expensive, and I'm not really sure you get value for money compared to less pricey versions from other providers. Two other major downsides are the bladder pocket, which isn't really a pocket and doesn't seem to accept any kind of bladder, and the hand warmer pocket material and waist of the BA, which take forever to dry.
 
-The pockets at the waist are inaccessible during paddling and I've never really found a use for them. A smaller strap on the shoulder strap for attaching a radio or emergency GPS beacon broke after about 18 months of use. Fortunately, it has a sturdier plastic backing.
+The pockets at the waist are inaccessible during paddling, and I've never really found a use for them. A smaller strap on the shoulder strap for attaching a radio or emergency GPS beacon broke after about 18 months of use. Fortunately, it has a sturdier plastic backing.
 
 ```{figure} ../../images/astral.png
 :name: astral

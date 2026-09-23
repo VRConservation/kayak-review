@@ -1,5 +1,5 @@
 ---
-title: Peak UK Ocean Wrap BA
+title: Peak UK Ocean Wrap
 subject: Safety
 subtitle: A solid ba that's easy to put on and has generous pockets
 short_title:  Peak UK Ocean Wrap BA
@@ -16,10 +16,10 @@ kernelspec:
 |-------------------|-----------|
 | 🟢 Excellent storage pockets | 🟡 A bit bulky for speedier paddling |
 | 🟢 Pocket for bladder works! | 🟡 Straps can be fiddly|
-| 🟢 Easy on and off |  |
+| 🟢 Easy on and off | Pockets could have more organization |
 
 # Summary
-Front-entry system with a zip makes this buoyancy aid easy to don and doff ({numref}`peak`). My only minor complaint is that the jacket has many straps to fit your body, which can be fiddly and tend to loosen. The jacket also is not as comfortable, say, as the Astral, especially on longer journeys. However, it's £100 less and made of eco-friendly, recycled materials (and made in the UK).
+The front-entry zip makes this buoyancy aid easy to don and doff ({numref}`peak`). My only minor complaint is that the jacket has many straps to fit your body, which can be fiddly and tend to loosen. The jacket also isn't as comfortable as, say, the Astral, especially on longer journeys. However, it's £100 less and made of eco-friendly, recycled materials (and made in the UK).
 
 ```{figure} ../../images/peak-ba.jpg
 :name: peak

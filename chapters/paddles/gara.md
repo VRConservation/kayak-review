@@ -19,7 +19,7 @@ kernelspec:
 | 🟢 Comes with padded bag| 🟡 Lever lock is ok|
 
 # Summary
-The Gara wing paddle is an affordably priced introductory wing to add to your paddle portfolio. Caveat again, try out different wing paddles before you buy. This paddle is very fast, and once you get used to using it, you will enjoy its speed. It also comes with a very nice padded bag, and you can specify the exact length when you order from marsport.co.uk. 
+The Gara wing paddle is an affordably priced introductory wing to add to your paddle portfolio. Caveat again: try out different wing paddles before you buy. This paddle is very fast, and once you get used to using it, you will enjoy its speed. It also comes with a very nice padded bag, and you can specify the exact length when you order from marsport.co.uk. 
 
 It goes without saying that wing paddles are not great in rough conditions, and you do have to think about how to rudder with them. South Africans seem to paddle them well downwind in surfskis on massive waves, but those paddlers could likely paddle them anywhere. And who needs to rudder when you're going fast in a straight line? You have to change your paddle stroke somewhat to use a wing paddle anyway.
 

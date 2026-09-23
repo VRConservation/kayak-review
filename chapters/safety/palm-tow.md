@@ -19,7 +19,7 @@ kernelspec:
 | 🟢 High-vis line | 🟡 Large when stowed |
 
 # Summary
-Great for a first towline purchase as it's not pricey and it works for basic towing. The towline is highly visible in yellow. The belt is comfortable and easily adjusted. I replaced the plastic carabiner that came with it with a large stainless steel biner. After several years of use, I replaced it with the Whetman sea bean for two reasons: the bean is smaller in size and has a longer tow line. I also found that re-stuffing the bag was not as easy on the water.
+Great for a first towline purchase as it's not pricey and it works for basic towing. The towline is highly visible in yellow. The belt is comfortable and easy to adjust. I replaced the plastic carabiner that came with it with a large stainless steel carabiner. After several years of use, I replaced it with the Whetman Sea Bean for two reasons: the bean is smaller in size and has a longer tow line. I also found that restuffing the bag wasn't as easy on the water.
 
 # Buyer
 First-time towline buyer.

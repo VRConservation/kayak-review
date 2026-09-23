@@ -1,7 +1,7 @@
 ---
 title: Icom IC-M25 VHF
 subject: Safety
-subtitle: A solid, easy to use VHF
+subtitle: A solid, easy-to-use VHF
 short_title: Icom IC-M25 VHF
 authors:
   - name: Vance Russell
@@ -19,9 +19,9 @@ kernelspec:
 | 🟢 Long antenna | 🟡 |
 
 # Summary
-I purchased this radio after the Standard Horizon radio failed, and I really like it. It's easy to turn on, cycle through needed channels, save favorite channels, and has waterproof access for the USB-C charging port. My only niggle is the long antenna, which is really a plus since it presumably means it has a longer range.
+I purchased this radio after the Standard Horizon radio failed, and I really like it. It's easy to turn on, cycle through needed channels, save favorite channels, and has waterproof access for the USB-C charging port. My only niggle is the long antenna, which is a plus since it presumably means longer range.
 
-I've only had the radio for 9 months since the SH radio failed, so we'll see how it stands up to long-term use and if it is really waterproof.
+I've only had the radio for 9 months since the SH radio failed, so we'll see how it holds up over time and whether it is really waterproof.
 
 # Buyer
 Anyone who goes on the water.

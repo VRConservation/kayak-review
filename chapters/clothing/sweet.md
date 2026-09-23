@@ -21,7 +21,7 @@ kernelspec:
 # Summary
 This helmet just looks cool, plus you get a visor to keep the sun out. I'm not sure whether to start singing Kiss's Strutter or Sweet's Ballroom Blitz when I put this helmet on, but it does make you want to go out and surf some waves, run a tiderace, or negotiate splosh. Although generally pricey, you can often get them on sale. Not too long ago, Escape Watersports had a neon green Strutter for sale at £49.99. 
 
-I found the headband uncomfortable at first, but after about 1 hr of paddling. This has gradually subsided, and I'm not sure whether I broke in the helmet or it broke me in. On longer paddles, I often have to do a little hat adjustment to move it around. This could be fixed, perhaps by wearing a headband or thin beanie underneath. For example, I noticed that when wearing a neoprene balaclava on colder days, this issue did not persist. Adjusting the headband on the fly is not easy and could be replaced with a BOA dial or a similar easy-to-adjust feature, such as those found on bike helmets.
+I found the headband uncomfortable at first, but after about 1 hr of paddling. This has gradually subsided, and I'm not sure whether I broke in the helmet or it broke me in. On longer paddles, I often have to adjust the hat a little to move it around. This could be fixed, perhaps by wearing a headband or thin beanie underneath. For example, I noticed this issue didn't persist when I wore a neoprene balaclava on colder days. Adjusting the headband on the fly isn't easy, and it could be replaced with a BOA dial or a similar easy-to-adjust feature, like those found on bike helmets.
 
 # Buyer
 Anyone going rockhopping, into waves, or into more advanced conditions.
