@@ -26,7 +26,7 @@ Here's a summary of the names from the pros and cons table above.
 Reed = Reed Chilcheater Aquatherm Deck <br>
 Lomo = Lomo Neodeck <br>
 Peak = eak PS Explorer <br>
-Whetman = Whetman Gripper <br>
+Whetman = Whetman Pressure <br>
 Manic = Manic adjustable waist Deck
 
 Overall, I would recommend one of the Peak UK decks above the others. The reasonable price, durability, fit on the deck, and relatively low leakage make them an all-round winner. A more detailed review of decks to come.
