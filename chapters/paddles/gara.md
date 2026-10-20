@@ -1,5 +1,5 @@
 ---
-title: Gara wing paddle
+title: Gara Wing Paddle
 subject: Paddles
 subtitle: A reasonably priced beginner wing paddle
 short_title: Gara Wing

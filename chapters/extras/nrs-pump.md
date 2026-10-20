@@ -1,5 +1,5 @@
 ---
-title: NRS pump
+title: NRS Pump
 subject: Extras
 subtitle: High volume pump
 short_title:  NRS Pump

@@ -1,5 +1,5 @@
 ---
-title: Epic surfskis
+title: Epic Surfskis
 subject: Kayaks
 subtitle: Sit on tops built for speed
 short_title:  Epic surfskis

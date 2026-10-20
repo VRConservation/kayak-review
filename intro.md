@@ -36,5 +36,7 @@ The book is organized into broad, categorical chapters, each featuring equipment
 4. **Paddles**. Paddle reviews. There are millions of paddles out there. How do you choose the right one? These will help you to choose (and hopefully help you avoid spending loads £££s on a paddle you don't like or doesn't suit your paddling style).
 5. **Safety gear**. Essential safety gear reviews.
 
+The critical gear chapter that follows the introduction answer the question, what if you could only choose the minimum kit? How would you outfit yourself for safe kayaking. This question is generally impossible to answer because kayaking is so flexible by person, region, and club. However it tries to answer the question with kit that can perform in a variety of conditions.
+
 # Contribution
 Review contributions are welcome! Please feel free to reach out and offer kit reviews. The easiest way to do this is to visit the GitHub [repo](https://github.com/VRConservation/kayak_rvw), clone the repository, add a review using the same markdown template as the other chapters, and then make a pull request. 

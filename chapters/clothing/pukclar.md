@@ -1,5 +1,5 @@
 ---
-title: Pukclar polarised sport sunglasses
+title: Pukclar Polarised Sport Sunglasses
 subject: Clothing
 subtitle: Great sunnies at a reasonable price
 short_title:  Pukclar sunnies

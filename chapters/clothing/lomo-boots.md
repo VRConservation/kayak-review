@@ -1,5 +1,5 @@
 ---
-title: Lomo wetsuit boots
+title: Lomo Wetsuit Boots
 subject: Clothing
 subtitle: Reasonably priced, durable kayak boots
 short_title:  Lomo wetsuit boots
