@@ -1,5 +1,5 @@
 # Kayak Gear Reviews
-Welcome to the Kayak Gear Reviews [Book](3point.xyz/kayak-review)!
+Welcome to the Kayak Gear Reviews Book.
 
 # Kit challenges
 Sorting through what works and does not with kayak gear can be a confusing, costly, and monumental task. There are many opinions, often based on personal taste and paddling style. The web has reviews, but many can be outdated and often seem to be from 10+ years ago. Frequently, in more recent reviews, the focus is often on first impressions and don't include use over longer periods of time. So, beginners and more experienced paddlers alike are often subject to trial and error or word of mouth.
@@ -11,3 +11,6 @@ This guide features short, to-the-point reviews of kayak gear, some of it long-t
 
 # Details
 Check out introductory chapter for the table of contents and how to contribute, then dive into the reviews by expanding the Chapters sections.
+
+Vance Russell <br>
+October 2026
