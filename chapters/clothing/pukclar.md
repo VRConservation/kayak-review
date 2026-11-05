@@ -15,8 +15,13 @@ kernelspec:
 | **PROS**    | **CONS**  |
 |-------------------|-----------|
 | 🟢 Comfortable | 🟡 Temples can get in way of hat band |
-| 🟢 Full protection | 🟡 Long-term durability tbd |
+| 🟢 Full protection | 🟡 Poor long-term durability |
 | 🟢 Price | 🟡 Optics somewhat distorted |
+
+# Update
+**No longer recommended**
+
+On 1 November 2026, only 4 months after purchasing them, I picked up the sunglasses, opened the temples, and one snapped. Fortunately, it was right where the hard and soft plastic meet, so I taped the temple with electrical tape, and they still work for now. Because of the durability and optical distortion, I can no longer recommend them.
 
 # Summary
 I purchased these sunnies after sitting on an expensive pair at the Northumberland campsite. Tired of losing or breaking expensive sunglasses, I bought these thinking they wouldn't be great because of the low price. So far they're awesome, rivaling much more expensive glasses and with no worries about losing or breaking them. Plus, they come in different colors and are polarised. What more could you ask for? Highly recommended!
